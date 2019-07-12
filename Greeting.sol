@@ -11,7 +11,7 @@ contract Greeting {
     message = _message;
   }
 
-  function getGreeting() public view return string {
+  function getGreeting() public view returns (string) {
     return message;
   }
 }

@@ -11,5 +11,8 @@
   "dependencies": {
     "solc": "^0.5.10",
     "web3": "^1.0.0-beta.55"
+  },
+  "devDependencies": {
+    "solhint": "^2.1.0"
   }
 }
