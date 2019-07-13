@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "solc": "^0.5.10",
-    "web3": "^1.0.0-beta.55"
+    "web3": "^0.20.0"
   },
   "devDependencies": {
     "solhint": "^2.1.0"
